@@ -1,2 +1,2 @@
 # Portfolio-Website
-Portfolio site usig html css js 
+Portfolio site template using html css js 
